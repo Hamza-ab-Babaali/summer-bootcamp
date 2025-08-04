@@ -1,0 +1,78 @@
+{
+  "overview": "Bonjour ! Je suis Hamza, un développeur passionné désireux de construire des projets significatifs.",
+  "about": {
+    "name": "Hamza",
+    "email": "hamza@example.com",
+    "description": "Je suis étudiant en ingénierie logicielle, spécialisé en Python, science des données, et développement full-stack.",
+    "goals": "Je souhaite apprendre l'intelligence artificielle, la cybersécurité, le développement web, et explorer ces domaines en profondeur."
+  },
+  "education": [
+    {
+      "institution": "AC College Maroc",
+      "degree": "Licence en Informatique",
+      "year": "2022"
+    },
+    {
+      "institution": "AC College Maroc",
+      "degree": "Diplôme en Science des Données",
+      "year": "2023"
+    },
+    {
+      "institution": "AC College Maroc",
+      "degree": "Certificat en Fondamentaux de l'IA",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Python pour Tous",
+      "issuer": "Coursera",
+      "year": "2023",
+      "link": "https://example.com/certificate1"
+    },
+    {
+      "title": "Essentiels Git & GitHub",
+      "issuer": "Udemy",
+      "year": "2024",
+      "link": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Site Portfolio Personnel",
+      "description": "Création d'un portfolio personnel responsive utilisant Streamlit avec un contenu JSON dynamique.",
+      "link": "https://github.com/hamza/portfolio"
+    },
+    {
+      "title": "Projet d'Analyse de Données",
+      "description": "Analyse des données de ventes avec pandas et visualisation avec matplotlib et seaborn."
+    }
+  ],
+  "leetcode": {
+    "count": 42,
+    "link": "https://github.com/hamza/leetcode-solutions"
+  },
+  "skills": {
+    "languages": [
+      "Python",
+      "Git",
+      "GitHub"
+    ],
+    "tech_stack": [
+      "Google Colab",
+      "VSCode",
+      "Excel"
+    ]
+  },
+  "languages": [
+    "Arabe (natif)",
+    "Français (courant)",
+    "Anglais (avancé)"
+  ],
+  "hobbies": [
+    "Lecture de blogs tech",
+    "Jeux vidéo",
+    "Création de projets annexes",
+    "Jouer de la guitare"
+  ]
+}
