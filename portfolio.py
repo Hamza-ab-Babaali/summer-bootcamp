@@ -7,7 +7,7 @@ with open("content_fr.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Load profile image
-profile_image = Image.open("assets/profile.jpg")
+profile_image = Image.open("profile.jpg")
 
 # Page config
 st.set_page_config(page_title=f"{data['about']['name']} | Portfolio Développeur", layout="wide")
@@ -91,3 +91,4 @@ elif selected_tab == "LeetCode":
     st.title("🧩 Problèmes LeetCode résolus")
     st.write(f"Nombre total de problèmes résolus : *{data['leetcode']['count']}*")
     st.markdown(f"[🔗 Voir mes solutions LeetCode sur GitHub]({data['leetcode']['link']})")
+
