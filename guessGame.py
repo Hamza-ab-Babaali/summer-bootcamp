@@ -43,8 +43,7 @@ while(haert != 0):
         haert-=1
 if haert==0:
     print("you lose!!")
-    m-=1
-    d.writelines(m)
+
 print(k)
 
 
